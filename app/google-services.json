@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "794736385840",
+    "project_id": "tatiagioapp1",
+    "storage_bucket": "tatiagioapp1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794736385840:android:ca1944399d251cb87132f5",
+        "android_client_info": {
+          "package_name": "com.example.tatiagioapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794736385840-mlv5i0vh3mo48v08ahesubnlpvmq4qv4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tatiagioapp",
+            "certificate_hash": "ad79e91cc77252d58ed435e9bb3c978f8ff0bfea"
+          }
+        },
+        {
+          "client_id": "794736385840-4kj4g5at652ljpe4lc11rkl88k909ld3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt6doztIcFdC1m8zQry8ISD_FaV27Cdy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794736385840-4kj4g5at652ljpe4lc11rkl88k909ld3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TatiaGioApp</string>
+    <string name="delete_item_button">Delete item button</string>
+    <string name="item_text">Item Text</string>
+</resources>
